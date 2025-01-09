@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Learn"
+		},
+		{
+			"path": "../recipe-page-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "recipe-page-main"
+	}
+}
